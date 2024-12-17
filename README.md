@@ -32,6 +32,6 @@ npm install or yarn start
 
 #### Screenshot dell'app
 
-![TODO List](./assets/todo-list.png)
+![TODO List](./assets/todo-app.jpg)
 
 
